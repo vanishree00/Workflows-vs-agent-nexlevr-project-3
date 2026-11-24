@@ -42,4 +42,4 @@ The project demonstrates that AI agents are not always necessary for automation.
 
 **Internship:** NEXLEVER  
 **Task:** 3  
-**Role:** Agentic AI Developer Intern
+**Role:** Agentic AI Developer Intern [NEXLEVR](https://github.com/Nexlevr).
